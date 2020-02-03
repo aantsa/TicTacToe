@@ -7,7 +7,7 @@ This TicTacToe was made as a project for my C# programming course.
 
 
 ## Installation
-Download all the files that this repository.
+Download all the files that this repository has.
 
 ## How to run
 ### Prerequisites
