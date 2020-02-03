@@ -7,7 +7,14 @@ This TicTacToe was made as a project for my C# programming course.
 
 
 ## Installation
-Download all the files that this repository has and open it with Visual Studio (2019 preferable).
+Download all the files that this repository.
 
-## Usage
+## How to run
+### Prerequisites
+* Visual Studio 2019 (other versions of Visual Studio are fine if you can build projects).
 
+### Steps
+* Make sure you have extracted the files from the .zip file.
+* Run the application
+** Open TicTacToe.sln with Visual studio
+** Run the project
