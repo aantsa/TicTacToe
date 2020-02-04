@@ -16,5 +16,5 @@ Download all the files that this repository has.
 ### Steps
 * Make sure you have extracted the files from the .zip file.
 * Run the application
-** Open TicTacToe.sln with Visual studio
-** Run the project
+* Open TicTacToe.sln with Visual studio
+* Run the project
